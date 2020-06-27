@@ -1,0 +1,1 @@
+de bai co van de o cho (1 ≤ N ≤ 100, 0 ≤ K ≤ 50000) vi tong khong the lon den 50000 va vi the cung khong can chia cho modulo
